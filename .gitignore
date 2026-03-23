@@ -1,0 +1,49 @@
+# Dependências
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Nativo
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# Variáveis de ambiente (NUNCA suba o .env real)
+.env
+.env.local
+.env*.local
+
+# Arquivos sensíveis do Firebase/Google
+google-services.json
+GoogleService-Info.plist
+
+# Keystore do Android
+android/app/debug.keystore
+android/app/release.keystore
+
+# TypeScript
+*.tsbuildinfo
+
+# Pastas nativas geradas
+/ios
+/android
