@@ -121,4 +121,4 @@ Nada disso é acidente — é o estado natural de uma construção em andamento.
 
 ## Licença
 
-MIT © 2025 Bruno Zucker
+MIT © 2026 Bruno Zucker
