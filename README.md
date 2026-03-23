@@ -7,9 +7,27 @@ O foco até aqui foi fazer funcionar. Layout, padronização visual e refinament
 
 ---
 
-## Telas
+## 📱 Algumas telas do app
 
-O app conta com dois fluxos distintos — candidato e empresa — com interfaces próprias para cada perfil.
+> O app ainda está em desenvolvimento — as telas abaixo representam o estado atual da interface, que será lapidada nas próximas versões.
+
+![Login](./imagens-do-app/PáginaLogin.jpg)
+![Login 2](./imagens-do-app/PáginaLogin2.jpg)
+![Cadastro Candidato](./imagens-do-app/CadastroCandidato.jpg)
+![Cadastro Empresa](./imagens-do-app/CadastroEmpresa.jpg)
+![Feed Candidato](./imagens-do-app/FeedCandidato.jpg)
+![Feed Empresa](./imagens-do-app/FeedEmpresa.jpg)
+![Perfil Candidato](./imagens-do-app/PerfilCandidato.jpg)
+![Perfil Empresa](./imagens-do-app/PerfilEmpresa.jpg)
+![Adicionar Vaga](./imagens-do-app/AdicionarVaga.jpg)
+![Entrevistas Candidatos](./imagens-do-app/EntrevistasCandidatos.jpg)
+![Chat Empresa](./imagens-do-app/ChatEmpresa.jpg)
+![Chamadas Empresas](./imagens-do-app/ChamadasEmpresas.jpg)
+![Parcerias Empresas](./imagens-do-app/ParceriasEmpresas.jpg)
+![Ranking Empresas](./imagens-do-app/RankingEmpresas.jpg)
+![Recuperar Senha](./imagens-do-app/RecuperarSenha.jpg)
+
+---
 
 **Candidato**
 - Tela inicial com acesso a Feed, Vagas, Entrevistas e Perfil
@@ -20,6 +38,8 @@ O app conta com dois fluxos distintos — candidato e empresa — com interfaces
 - ChatBot para auxiliar na montagem do currículo *(em desenvolvimento)*
 - Visibilidade do currículo — quais empresas visualizaram e quando
 - Central de suporte com FAQ e chamado técnico
+  
+---
 
 **Empresa**
 - Feed com publicação de posts (texto + foto) e interações
